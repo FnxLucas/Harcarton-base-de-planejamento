@@ -8,6 +8,18 @@ Ao invés de enxergar o CAR apenas como uma obrigação legal, o produtor passa 
 
 O sistema não substitui o SICAR nem realiza o cadastro do CAR. Ele atua como uma camada de apoio ao produtor, incentivando a regularização e reduzindo erros antes do envio ao órgão ambiental.
 
+## Resumo do Feedback Recebido da Mentora Andressa
+
+A mentora destacou que a principal forÃ§a do projeto estÃ¡ em mudar a forma como o produtor enxerga o CAR. Em vez de apresentar o cadastro apenas como uma exigÃªncia legal e burocrÃ¡tica, a proposta ganha valor quando mostra que a regularizaÃ§Ã£o pode abrir portas para oportunidades concretas, como benefÃ­cios, programas e melhores condiÃ§Ãµes de acesso a apoio tÃ©cnico e financeiro.
+
+O ponto central do feedback foi o reposicionamento da soluÃ§Ã£o. A Andressa indicou que o Verde+ deve ser comunicado como uma camada complementar ao ecossistema do CAR, e nÃ£o como um novo sistema oficial. A proposta fica mais forte quando se apresenta como uma ponte entre a pendÃªncia ambiental e o prÃ³ximo passo prÃ¡tico, traduzindo notificaÃ§Ãµes e exigÃªncias em linguagem simples e acionÃ¡vel.
+
+Ela tambÃ©m chamou atenÃ§Ã£o para quem realmente opera o CAR na prÃ¡tica. Muitas vezes, o produtor nÃ£o faz esse processo sozinho: consultores, engenheiros, cooperativas e escritÃ³rios especializados costumam ter papel importante. Por isso, a soluÃ§Ã£o nÃ£o deve ser pensada apenas para o produtor final, mas tambÃ©m para esses atores que ajudam na regularizaÃ§Ã£o e podem ampliar a adoÃ§Ã£o da proposta.
+
+Outro ponto importante foi o risco de escopo amplo demais. Se o projeto tentar resolver de uma vez comunicaÃ§Ã£o, notificaÃ§Ãµes, priorizaÃ§Ã£o de pendÃªncias, acesso a benefÃ­cios, acessibilidade e ainda reduÃ§Ã£o do retrabalho institucional, ele pode parecer difÃ­cil de executar e menos convincente para a banca. A recomendaÃ§Ã£o foi focar em uma promessa principal clara e demonstrÃ¡vel.
+
+Por fim, a mentora alertou para o cuidado com elementos como `Score Ambiental`. Apesar de serem atrativos visualmente, eles podem gerar dÃºvidas sobre metodologia, validade tÃ©cnica e interpretaÃ§Ã£o regulatÃ³ria, alÃ©m de passar a impressÃ£o equivocada de uma avaliaÃ§Ã£o oficial. A orientaÃ§Ã£o foi priorizar uma linguagem de apoio, traduÃ§Ã£o e orientaÃ§Ã£o prÃ¡tica, sem sugerir substituiÃ§Ã£o do sistema pÃºblico.
+
 ## Personas
 
 ### Raimundo
