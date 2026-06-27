@@ -30,6 +30,7 @@ Fontes locais usadas:
 13. `13-redator-pitch.md` - transforma o MVP em narrativa competitiva.
 14. `14-roteirista-demo.md` - monta roteiro do video de prototipo em ate 2 minutos.
 15. `15-auditor-tokens-ferramentas.md` - controla tokens, skills, MCPs e ferramentas.
+16. `16-jurado-hacarthon.md` - avalia e melhora ideacao, prototipagem e pitch como banca julgadora.
 
 ## Template de consulta
 
